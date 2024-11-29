@@ -12,7 +12,7 @@ While working on this project, I learned:
 - The importance of consistent file naming and folder structure.
 - How to use CSS properties like box-shadow, hover effects, and media queries for styling.
 # How to Run
-1. Clone the repository: git clone https://github.com/yourusername/repository-name.git
+1. Clone the repository: git clone https://suk022.github.io/YouTube-Homepage-Clone/
 3. Open index.html in your browser to view the clone.
 
 
