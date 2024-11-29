@@ -12,5 +12,5 @@ While working on this project, I learned:
 - The importance of consistent file naming and folder structure.
 - How to use CSS properties like box-shadow, hover effects, and media queries for styling.
 # Live Demo
-- [Click here]([https://yourusername.github.io/first-clone](https://suk022.github.io/YouTube-Homepage-Clone/))
+- [**Click here**](https://suk022.github.io/YouTube-Homepage-Clone/)
 
