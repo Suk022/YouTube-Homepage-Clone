@@ -1,9 +1,18 @@
-# youtube-main-page-clone
+# Youtube-Home-Page-Clone
 # Project Overview
-This is a clone of the YouTube main page that I created while learning HTML and CSS. The page mimics the layout and design of YouTube, including the navigation bar, search bar, and a grid of 12 video thumbnails
-# Purpose
-This project was built as part of my journey to learn and practice web development. It helped me improve my skills in:
-Structuring content using HTML.
-Styling pages using CSS, including flexbox and grid.
-Creating a visually appealing, responsive layout.
-# Project Structure
+This is a YouTube homepage clone built using **HTML** and **CSS**. The project showcases a responsive layout with a video grid, sidebar, and header similar to the YouTube homepage.
+# Features 
+- Responsive grid layout for displaying video thumbnails.
+- Fully styled navigation bar with a mock logo, search bar, and icons.
+- Hover effects on video thumbnails to enhance interactivity.
+- Organized and reusable CSS styling for easy modifications.
+# Learnings
+While working on this project, I learned:  
+- How to create responsive layouts using CSS Grid and Flexbox.  
+- The importance of consistent file naming and folder structure.
+- How to use CSS properties like box-shadow, hover effects, and media queries for styling.
+# How to Run
+1. Clone the repository: git clone https://github.com/yourusername/repository-name.git
+3. Open index.html in your browser to view the clone.
+
+
